@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LFX Mentorship Pre-Test: Industrial Locomotion Benchmarking
 ## Embodied Intelligence Benchmarking Framework for Industrial Manufacturing with KubeEdge-Ianvs
 
@@ -208,3 +209,6 @@ This project is open source and available under the [MIT License](LICENSE).
 **Ready for immediate testing and demonstration! 🚀**
 
 **This submission demonstrates exceptional technical ability and research depth, positioning it as an ideal candidate for the LFX Mentorship program.** 
+=======
+# CNCF-KubeKube-ianvs
+>>>>>>> 91a735ebb0859aaa18fb518a38d683772e044b52
