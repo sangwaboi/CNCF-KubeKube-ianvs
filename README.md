@@ -12,7 +12,7 @@
 
 Walking through manufacturing facilities, I kept seeing the same contradiction: incredibly precise machines that couldn't navigate dynamically or understand their environment. Why should industrial automation be limited to fixed paths when even simple organisms move intelligently through space?
 
-This obsession led me to build the first working demonstration of KubeEdge-Ianvs for real-world manufacturing challenges. Not another research prototype—a practical solution addressing the $12 billion industrial automation market.
+This obsession led me to build the first working demonstration of KubeEdge-Ianvs for real-world manufacturing challenges. Not another research prototype, a practical solution addressing the $12 billion industrial automation market.
 
 ## What Makes It Different
 
