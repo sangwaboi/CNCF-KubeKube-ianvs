@@ -18,7 +18,7 @@ This obsession led me to build the first working demonstration of KubeEdge-Ianvs
 
 **Actually Works**: Clone this repo, run `ianvs -f locomotion_benchmarking.yaml`, get real results in 5 minutes. No simulations, no theoretical frameworks—working code.
 
-**Industrial-First**: Every design choice stems from real manufacturing constraints. Safety margins, collision avoidance, real-time performance—these aren't academic concepts but production requirements.
+**Industrial-First**: Every design choice is informed by real manufacturing constraints—safety margins, collision avoidance, real-time performance, these aren't academic concepts but production requirements.
 
 **Edge-Native**: Built for industrial edge deployment where cloud latency kills critical operations and security matters.
 
@@ -57,13 +57,13 @@ ianvs -f locomotion_benchmarking.yaml
 
 This represents my submission for **LFX Mentorship Program (2025 Term 2)** on "Embodied Intelligence Benchmarking Framework for Industrial Manufacturing with KubeEdge-Ianvs."
 
-But it's more than a submission—it's a year of learning how technology actually gets deployed in production. Understanding safety protocols, studying failure modes, grasping the operational constraints that determine whether innovation becomes transformation.
+But it's more than a submission—it's a year of learning how technology gets deployed in production. Understanding safety protocols, studying failure modes, grasping the operational constraints that determine whether innovation becomes transformation.
 
 **What sets this apart**: While others write papers about what could be possible, I built what is possible. Production-quality implementation addressing real manufacturing challenges with clear economic impact.
 
 ## Vision Forward
 
-This framework is the foundation for intelligent manufacturing systems that understand their environment, make safe decisions, and continuously improve. Next: multi-robot coordination, ERP integration, advanced sensor fusion, adaptive learning.
+This framework serves as the foundation for intelligent manufacturing systems that understand their environment, make informed decisions, and continually improve. Next: multi-robot coordination, ERP integration, advanced sensor fusion, adaptive learning.
 
 ## Let's Build Together
 
