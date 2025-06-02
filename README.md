@@ -25,7 +25,6 @@ This obsession led me to build the first working demonstration of KubeEdge-Ianvs
 ## The Tech
 
 ```bash
-# Experience it yourself
 git clone https://github.com/sangwaboi/CNCF-KubeKube-ianvs.git
 cd CNCF-KubeKube-ianvs
 ianvs -f locomotion_benchmarking.yaml
@@ -40,14 +39,14 @@ ianvs -f locomotion_benchmarking.yaml
 ## Quick Start
 
 ```bash
-# Setup
+#setup
 conda create -n ianvs-locomotion python=3.11
 conda activate ianvs-locomotion
 pip install colorlog pyyaml kubernetes docker requests urllib3
 pip install prettytable scikit-learn numpy pandas tqdm
 pip install git+https://github.com/kubeedge/sedna.git#subdirectory=lib
 
-# Run (requires local Ianvs installation)
+#run 
 cd /path/to/ianvs && pip install -e .
 cd /path/to/CNCF-KubeKube-ianvs
 ianvs -f locomotion_benchmarking.yaml
