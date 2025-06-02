@@ -62,4 +62,13 @@ workspace/*.json
 
 # Backup files
 *.bak
-*.backup 
+*.backup
+
+# Submission-related files (keep private)
+*SUBMISSION*
+*MENTOR*
+*LFX*
+*TASK_*
+*PRETEST*
+*.zip
+*submission* 
