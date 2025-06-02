@@ -1,4 +1,4 @@
-# Industrial Embodied Intelligence: Autonomous Navigation That Actually Works
+# Industrial Embodied Intelligence: Autonomous Navigation .. 
 
 **Breakthrough benchmarking framework for industrial locomotion using KubeEdge-Ianvs**
 
@@ -16,9 +16,9 @@ This obsession led me to build the first working demonstration of KubeEdge-Ianvs
 
 ## What Makes It Different
 
-**Actually Works**: Clone this repo, run `ianvs -f locomotion_benchmarking.yaml`, get real results in 5 minutes. No simulations, no theoretical frameworks—working code.
+**Actually Works**: Clone this repo, run `ianvs -f locomotion_benchmarking.yaml`, get real results in 5 minutes. No simulations, no theoretical frameworks, working code.
 
-**Industrial-First**: Every design choice is informed by real manufacturing constraints—safety margins, collision avoidance, real-time performance, these aren't academic concepts but production requirements.
+**Industrial-First**: Every design choice is informed by real manufacturing constraints, safety margins, collision avoidance, and real-time performance; these aren't academic concepts but production requirements.
 
 **Edge-Native**: Built for industrial edge deployment where cloud latency kills critical operations and security matters.
 
@@ -57,7 +57,7 @@ ianvs -f locomotion_benchmarking.yaml
 
 This represents my submission for **LFX Mentorship Program (2025 Term 2)** on "Embodied Intelligence Benchmarking Framework for Industrial Manufacturing with KubeEdge-Ianvs."
 
-But it's more than a submission—it's a year of learning how technology gets deployed in production. Understanding safety protocols, studying failure modes, grasping the operational constraints that determine whether innovation becomes transformation.
+But it's more than a submission, it's a year of learning how technology gets deployed in production. Understanding safety protocols, studying failure modes, and grasping the operational constraints that determine whether innovation becomes transformation.
 
 **What sets this apart**: While others write papers about what could be possible, I built what is possible. Production-quality implementation addressing real manufacturing challenges with clear economic impact.
 
