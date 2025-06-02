@@ -1,0 +1,10 @@
+scenario_001,warehouse_navigation,start=(0,0),goal=(10,8),obstacles=5,difficulty=easy
+scenario_002,warehouse_navigation,start=(1,2),goal=(9,7),obstacles=7,difficulty=medium  
+scenario_003,warehouse_navigation,start=(2,1),goal=(8,9),obstacles=6,difficulty=easy
+scenario_004,warehouse_navigation,start=(0.5,3),goal=(9.5,6),obstacles=8,difficulty=medium
+scenario_005,warehouse_navigation,start=(1.5,0.5),goal=(8.5,8.5),obstacles=9,difficulty=hard
+scenario_006,warehouse_navigation,start=(3,2),goal=(7,7),obstacles=5,difficulty=easy
+scenario_007,warehouse_navigation,start=(0,4),goal=(10,3),obstacles=10,difficulty=hard
+scenario_008,warehouse_navigation,start=(2.5,1.5),goal=(7.5,8),obstacles=6,difficulty=medium
+scenario_009,warehouse_navigation,start=(1,4.5),goal=(9,2.5),obstacles=7,difficulty=medium
+scenario_010,warehouse_navigation,start=(0.2,2.8),goal=(9.8,7.2),obstacles=8,difficulty=hard 

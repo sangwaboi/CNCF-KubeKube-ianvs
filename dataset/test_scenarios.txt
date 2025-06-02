@@ -1,0 +1,5 @@
+test_001,warehouse_navigation,start=(1,1),goal=(9,9),obstacles=6,difficulty=medium
+test_002,warehouse_navigation,start=(0,5),goal=(10,2),obstacles=8,difficulty=hard
+test_003,warehouse_navigation,start=(2.5,0.5),goal=(7.5,9.5),obstacles=5,difficulty=easy
+test_004,warehouse_navigation,start=(0.8,3.2),goal=(9.2,6.8),obstacles=9,difficulty=hard
+test_005,warehouse_navigation,start=(3.5,1.2),goal=(6.5,8.8),obstacles=7,difficulty=medium 
